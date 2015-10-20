@@ -1,0 +1,10 @@
+{
+    "name": "artme/laravel-market-points",
+    "authors": [
+        {
+            "name": "Algirdas Dumskis",
+            "email": "algirdasdum@gmail.com"
+        }
+    ],
+    "require": {}
+}
